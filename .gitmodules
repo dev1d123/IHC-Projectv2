@@ -1,3 +1,6 @@
 [submodule "juegos/sm64"]
 	path = juegos/sm64
 	url = https://github.com/dev1d123/sm64_modIHC.git
+[submodule "emuladores/p64"]
+	path = emuladores/p64
+	url = https://github.com/dev1d123/project64_IHC.git
